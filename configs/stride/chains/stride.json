@@ -1,4 +1,5 @@
-  "type": "cosmos",
+}
+"type": "cosmos",
   "value": {
     "key": "wallet",
     "chain-id": "STRIDE-TESTNET-4",
